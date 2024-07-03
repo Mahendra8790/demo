@@ -1,2 +1,2 @@
-# demo
-hii this is mahendra
+# gitrepository
+hii this is git bash script
